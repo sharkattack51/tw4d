@@ -4,7 +4,7 @@ tw4d
 tw4d is pretty Twitter client for Cinema4D console.
 search timeline "Cinema4d", "C4D".
 
-![](./tw4d.png)
+![](./image/tw4d.png)
 
 ## Setup
 
@@ -14,7 +14,7 @@ https://apps.twitter.com/
 
 `"Create New App" -> get "ConsumerKey(API Key)" & "ConsumerSecret(API Secret)"`
 
-![](./get_twitter_dev_key.png)
+![](./image/get_twitter_dev_key.png)
 
 #### 2. Change the `tw4d.py`.
 
@@ -32,7 +32,7 @@ CONSUMER_SECRET = 'YOUR_CONSUMER_SECRET'
 
 in C4D `Edit -> Preference -> Open Preferences Folder`
 
-![](./open_preferences_folder.png)
+![](./image/open_preferences_folder.png)
 
 copy and unzip the downloaded files.
 
@@ -44,7 +44,7 @@ copy and unzip the downloaded files.
 |- requests_oauthlib(source directory)
 ```
 
-![](./3rd_library_install.png)
+![](./image/3rd_library_install.png)
 
 #### 4. The python module of Cinema4D, change the SSL build.
 
