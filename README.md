@@ -46,7 +46,7 @@ copy and unzip the downloaded files.
 
 ![](./image/3rd_library_install.png)
 
-#### 4. The python module of Cinema4D, change the SSL build.
+#### 4. The python module of Cinema4D, change the SSL build version.
 
 Install (just for me option) the [Python2.6](https://www.python.org/download/releases/2.6.6/).
 
