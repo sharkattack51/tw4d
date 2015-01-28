@@ -50,17 +50,28 @@ copy and unzip the downloaded files.
 
 Install (just for me option) the [Python2.6](https://www.python.org/download/releases/2.6.6/).
 
-**_!!! backup original c4d-python directory._**
+**_!!! backup original c4d-python directory. !!!_**
 
 copy
+
 `C:\Python26\...`
+
 to
-`C:\Program Files\MAXON\CINEMA 4D R14\resource\modules\python\res\Python.win64.framework\...`.
+
+`C:\Program Files\MAXON\CINEMA 4D R14\resource\modules\python\res\Python.win64.framework\...`
 
 #### 5. Copy `tw4d.py` to script folder.
 
+![](./image/open_script_folder.png)
+
 ## let's
 
-open console window. run script `tw4d.py` !
+open console window.
 
-the first time must be set OAuth and enter PIN code.
+![](./image/open_console.png)
+
+run script `tw4d.py` !
+
+![](./image/run_script.png)
+
+the first time must be set `OAuth` and enter `PIN` code.
